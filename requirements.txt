@@ -1,1 +1,4 @@
-worker: python bot.py
+pyrogram
+tgcrypto
+aiofiles
+motor
