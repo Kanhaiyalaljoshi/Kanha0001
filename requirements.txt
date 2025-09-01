@@ -1,5 +1,0 @@
-pyrogram
-telethon
-requests
-pymongo
-python-dotenv
